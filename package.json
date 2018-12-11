@@ -61,7 +61,7 @@
     "recompose": "^0.26.0",
     "rsuite-intl": "~1.0.4",
     "rsuite-notification": "~3.0.2",
-    "rsuite-table": "~3.1.7",
+    "rsuite-table": "https://github.com/INoceanIN/rsuite-table.git",
     "rsuite-utils": "^1.5.2",
     "schema-typed": "~0.2.0"
   },
